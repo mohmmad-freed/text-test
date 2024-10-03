@@ -1,0 +1,4 @@
+git init
+git add .
+git commit -m "test"
+git remote add origin https://github.com/mohmmad-freed/text-test.git
